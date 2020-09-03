@@ -5,9 +5,9 @@ I havne't done anything remarkable so far, but I've been a volunteer at [CPU_UC]
 
 Stuff I've learned to work with:
 
-    - Python 💖
-    - C 💢
-    - Haskell 😅
+ - Python 💖
+ - C 💢
+ - Haskell 😅
 
 
 ---
