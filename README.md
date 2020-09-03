@@ -1,5 +1,13 @@
-### Hi there 👋
+### Hi, you found me. 👋
+## I'm Tomás, a CompSci Student
+---
+I havne't done anything remarkable so far, but I've been a volunteer at [CPU_UC](https://www.instagram.com/cpu_uc/) for a while now, where I've learened to work around old hardware's limitations, the beauty of lightweight Linux distros and how a burnt power supply smells like.
 
+Stuff I've learned to work with:
+-Python 💖
+-C 💢
+-Haskell 😅
+-Ruby 💎
 <!--
 **tocococa/tocococa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
