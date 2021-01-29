@@ -6,8 +6,9 @@ I haven't done anything remarkable so far, but I've been a volunteer at [CPU_UC]
 Stuff (somewhat) know how to work with:
 
  - Python 💖
- - C 💢
+ - C 
  - Haskell 😅
+ - Ruby 😒
 
 
 ---
