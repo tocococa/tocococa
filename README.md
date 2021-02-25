@@ -5,7 +5,7 @@ I haven't done anything remarkable so far, but I've been a volunteer at [CPU_UC]
 
 Stuff I (somewhat) know how to work with:
 
- - Python 💖
+ - Python 3 💖
  - C 💔
  - Haskell 😅
  - Ruby 😒
