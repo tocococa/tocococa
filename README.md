@@ -11,7 +11,7 @@ Stuff I (somewhat) know how to work with:
  - RISC-V ASM 😐
  - Ruby 😒
 
-You can('t) reach me [here](tocococa.github.io)
+You can('t) reach me [here](https://tocococa.github.io/)
 
 ---
 <!--
