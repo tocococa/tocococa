@@ -8,8 +8,10 @@ Stuff I (somewhat) know how to work with:
  - Python 3 💖
  - C 💔
  - Haskell 😅
+ - RISC-V ASM 😐
  - Ruby 😒
 
+You can('t) reach me [here](tocococa.github.io)
 
 ---
 <!--
