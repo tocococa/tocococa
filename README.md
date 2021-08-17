@@ -12,9 +12,9 @@ Stuff I (somewhat) know how to work with:
  - Python 3 🙄
  - C 💖
  - C++ 🤖 
- - Haskell 😅
  - RISC-V ASM 😐
  - Ruby 😒
+ - Haskell 
 
 You can('t) reach me [here](https://tocococa.github.io/)
 
