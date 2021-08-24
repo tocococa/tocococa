@@ -14,7 +14,7 @@ Stuff I (somewhat) know how to work with:
  - C++ 🤖 
  - RISC-V ASM 😐
  - Ruby 😒
- - Haskell 
+ - C#
 
 You can('t) reach me [here](https://tocococa.github.io/)
 
