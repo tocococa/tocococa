@@ -1,5 +1,5 @@
 ### Hi, you found me. 👋
-## I'm Tomás, a CompSci Student.
+## I'm tocococa, a CompSci Student.
 ---
 
 Stuff I (somewhat) know how to work with:
