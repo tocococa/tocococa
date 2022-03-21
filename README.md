@@ -11,6 +11,7 @@ Languajes:
  - C++ 🤖 
  - RISC-V ASM 😐
  - Ruby 😒
+ - Haskell
  - C#
 
 Others:
@@ -18,6 +19,7 @@ Others:
  - PlatformIO
  - RoR
  - ROS1
+ - Yesod
 
 You can('t) reach me [here](https://tocococa.github.io/)
 
