@@ -20,7 +20,7 @@ Others:
  - RoR
  - ROS1
  - Yesod
- - Django
+ - Django REST
 
 You can('t) reach me [here](https://tocococa.github.io/)
 
