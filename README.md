@@ -13,14 +13,15 @@ Languajes:
  - Ruby 😒
  - Haskell
  - C#
+ - JavaScript
 
 Others:
 
  - PlatformIO
  - RoR
  - ROS1
- - Yesod
  - Django REST
+ - RouterOS
 
 You can('t) reach me [here](https://tocococa.github.io/)
 
