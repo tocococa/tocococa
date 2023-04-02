@@ -4,7 +4,7 @@
 
 Stuff I (somewhat) know how to work with:
 
-Languajes:
+Languages:
 
  - Python 3 🙄
  - C 💖
@@ -22,6 +22,7 @@ Others:
  - ROS1
  - Django REST
  - RouterOS
+ - SmartMeshIP
 
 You can('t) reach me [here](https://tocococa.github.io/)
 
